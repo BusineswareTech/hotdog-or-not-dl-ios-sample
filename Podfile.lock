@@ -1,0 +1,91 @@
+PODS:
+  - Alamofire (5.0.0-rc.2)
+  - Differentiator (4.0.1)
+  - IQKeyboardManagerSwift (6.5.1)
+  - Kingfisher (5.8.3):
+    - Kingfisher/Core (= 5.8.3)
+  - Kingfisher/Core (5.8.3)
+  - LibTorch (1.3.0):
+    - LibTorch/Core (= 1.3.0)
+  - LibTorch/Core (1.3.0):
+    - LibTorch/Torch
+  - LibTorch/Torch (1.3.0)
+  - Realm (3.20.0):
+    - Realm/Headers (= 3.20.0)
+  - Realm/Headers (3.20.0)
+  - RealmSwift (3.20.0):
+    - Realm (= 3.20.0)
+  - Reusable (4.1.0):
+    - Reusable/Storyboard (= 4.1.0)
+    - Reusable/View (= 4.1.0)
+  - Reusable/Storyboard (4.1.0)
+  - Reusable/View (4.1.0)
+  - RxCocoa (5.0.0):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxDataSources (4.0.1):
+    - Differentiator (~> 4.0)
+    - RxCocoa (~> 5.0)
+    - RxSwift (~> 5.0)
+  - RxRelay (5.0.0):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.0)
+  - RxSwiftExt (5.1.1):
+    - RxSwiftExt/Core (= 5.1.1)
+    - RxSwiftExt/RxCocoa (= 5.1.1)
+  - RxSwiftExt/Core (5.1.1):
+    - RxSwift (~> 5.0)
+  - RxSwiftExt/RxCocoa (5.1.1):
+    - RxCocoa (~> 5.0)
+    - RxSwiftExt/Core
+  - XLPagerTabStrip (9.0.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0.0-rc.2)
+  - IQKeyboardManagerSwift
+  - Kingfisher (~> 5.0)
+  - LibTorch
+  - RealmSwift
+  - Reusable (~> 4.1.0)
+  - RxCocoa (~> 5)
+  - RxDataSources (~> 4.0)
+  - RxSwift (~> 5)
+  - RxSwiftExt (~> 5)
+  - XLPagerTabStrip (~> 9.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Differentiator
+    - IQKeyboardManagerSwift
+    - Kingfisher
+    - LibTorch
+    - Realm
+    - RealmSwift
+    - Reusable
+    - RxCocoa
+    - RxDataSources
+    - RxRelay
+    - RxSwift
+    - RxSwiftExt
+    - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  Alamofire: f9450d3c7f6bea2ad62e7a541c3e9b186c7991d6
+  Differentiator: 886080237d9f87f322641dedbc5be257061b0602
+  IQKeyboardManagerSwift: 9ac7524fad9f9fe9a3b98c927e7772471ca546d2
+  Kingfisher: b7e4cb65ff24c264bd2a1284b75b974d907afd94
+  LibTorch: 403d9d5b81888ebe893b2cf5b7ea2bcdda766167
+  Realm: 8b2ca5bc6479a91f379b6b42b5922e396cd5ba5a
+  RealmSwift: 1949ef26a279e1845bd51d591b9103adfcd121df
+  Reusable: 82be188f29d96dc5eff0db7b2393bcc08d2cdd5b
+  RxCocoa: fcf32050ac00d801f34a7f71d5e8e7f23026dcd8
+  RxDataSources: efee07fa4de48477eca0a4611e6d11e2da9c1114
+  RxRelay: 4f7409406a51a55cd88483f21ed898c234d60f18
+  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
+  RxSwiftExt: 0d2fd77523a169d1459be34961b996a194bdef0e
+  XLPagerTabStrip: 61c57fd61f611ee5f01ff1495ad6fbee8bf496c5
+
+PODFILE CHECKSUM: e12c07163fd5459b64c93f8ab59813bbde209e96
+
+COCOAPODS: 1.8.4

@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  mlrecognizer
+
+  Created by Alexandr Mikhailov on 10.09.2019.
+  Copyright © 2019 Alexandr Mikhailov. All rights reserved.
+*/
+
+"Prediction.Result.Hotdog" = "This is HotDog";
+"Prediction.Result.NotHotdog" = "This is not HotDog";
+"Tutorial.Label1.Text" = "Navigate your camera to the object";
+"Tutorial.Label2.Text" = "Enjoy result of recognition in the right bottom corner";
+"Tutorial.NextButton.Text" = "Ok, I understood";
+"UploadingScreen.ImagePicker.Text" = "Icon";
+"UploadingScreen.ModelPicker.Text" = "Model";
+"ModelUploading.TextField.Placeholder" = "Enter your model name";
+"Settings.AllModelsTab.Text" = "All Models";
+"Settings.UserModelsTab.Text" = "My Models";
+"Settings.NavBar.Text" = "Model settings";
